@@ -351,6 +351,9 @@ footer {
   header > a > img {
     width: 20%;
   }
+  li {
+    padding: 0 7px;
+  }
   .section-1 > .image {
     width: 100%;
   }
